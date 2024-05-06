@@ -1,0 +1,1 @@
+ C:\\Users\\aryan\\OneDrive\\Documents\\GitHub\\Moral-Code-Hackathon\\savefood\\.dart_tool\\flutter_build\\7920bb37e129bdb908f8874cb0a95b45\\native_assets.yaml: 
